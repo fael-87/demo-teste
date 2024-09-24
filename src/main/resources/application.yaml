@@ -1,0 +1,13 @@
+spring:
+    application:
+        name: teste
+
+# springdoc:
+#     swagger-ui:
+#         path: /api-docs
+
+
+external:
+    url:          
+        produtos: https://rgr3viiqdl8sikgv.public.blob.vercel-storage.com/produtos-mnboX5IPl6VgG390FECTKqHsD9SkLS.json
+        compras: https://rgr3viiqdl8sikgv.public.blob.vercel-storage.com/clientes-Vz1U6aR3GTsjb3W8BRJhcNKmA81pVh.json
